@@ -1,6 +1,7 @@
 package com.jason.lambda;
 
-import org.junit.Test;
+
+import org.junit.jupiter.api.Test;
 
 /**
  * @Author : jasonzii @Author

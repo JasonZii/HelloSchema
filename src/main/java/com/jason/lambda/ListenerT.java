@@ -1,6 +1,6 @@
 package com.jason.lambda;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
